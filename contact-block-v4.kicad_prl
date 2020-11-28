@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 44,
-    "active_layer_preset": "All Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -13,17 +13,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
-      "graphics": false,
-      "keepouts": false,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": true,
-      "otherItems": false,
-      "pads": false,
-      "text": false,
-      "tracks": false,
-      "vias": false,
-      "zones": false
+      "otherItems": true,
+      "pads": true,
+      "text": true,
+      "tracks": true,
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       0,
@@ -36,7 +36,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -60,7 +59,7 @@
       37,
       38
     ],
-    "visible_layers": "fffffff_ffffffff"
+    "visible_layers": "fbffeff_ffffffff"
   },
   "meta": {
     "filename": "contact-block-v4.kicad_prl",
