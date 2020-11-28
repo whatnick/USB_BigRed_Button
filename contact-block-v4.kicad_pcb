@@ -217,7 +217,7 @@
       (net 14 "Net-(J3-Pad1)") (pinfunction "1") (tstamp 70a57a61-8dcd-4da4-b9ec-edd6684c1d8e))
     (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "1") (tstamp e1820a85-2545-4f15-b0d4-57dd73214cef))
-    (model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3379,6 +3379,9 @@
   (gr_line (start 103.632 72.771) (end 131.064 72.771) (layer "Edge.Cuts") (width 0.1) (tstamp e68b547f-681a-4259-ba65-468d85f07a31))
   (gr_line (start 96.139 81.534) (end 96.139 91.948) (layer "Edge.Cuts") (width 0.1) (tstamp ebf67c7a-139e-44f1-89a3-df59e2ecd632))
   (gr_line (start 138.322214 88.280371) (end 136.778999 91.017717) (layer "Edge.Cuts") (width 0.1) (tstamp fa64bcb7-5184-49d5-b0f8-3d1c39328820))
+  (gr_text "USB Big Red Button\nby Tisham Dhar\nDerived from work by @bikerglen\nv0.1 29/11/2020\nhttp://whatnick.com\nOSHW TAPR" (at 117.602 82.042) (layer "B.SilkS") (tstamp 73d675d8-8dec-45f3-8145-366b3496e327)
+    (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
+  )
 
   (segment (start 101.4179 80.2614) (end 98.9383 82.741) (width 0.25) (layer "F.Cu") (net 1) (tstamp 00ee2a0d-58ba-4853-adbc-c436fb5070fe))
   (segment (start 109.9316 87.7816) (end 111.5798 87.7816) (width 0.25) (layer "F.Cu") (net 1) (tstamp 08a22408-c83e-4c60-9f47-fa1085fe4438))
