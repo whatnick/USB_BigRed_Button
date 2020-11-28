@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "contact_block")(type "KiCad")(uri "${KIPRJMOD}/modules/contact_block.pretty")(options "")(descr ""))
+)
