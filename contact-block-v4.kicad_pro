@@ -375,7 +375,7 @@
     "meta": {
       "version": 0
     },
-    "net_format_name": "",
+    "net_format_name": "Pcbnew",
     "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -385,7 +385,7 @@
   },
   "sheets": [
     [
-      "6f13a655-da29-470b-ae58-d1152e48a6a0",
+      "bcdcb76d-76ec-4a43-b1f0-88e60da3b250",
       ""
     ]
   ],
